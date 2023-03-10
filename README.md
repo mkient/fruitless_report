@@ -4,3 +4,4 @@ SNPs diversity, Non-synonymous SNPs variation, SNPs allelic frequencies ;
 Nucleotide diversity, Tajima's D neutrality test, Watterson theta, haplotype diversity ;
 Conservation score in the fruitless gene ; 
 Chromosome-wide selection scan ; 
+https://doi.org/10.3390/insects13111048
